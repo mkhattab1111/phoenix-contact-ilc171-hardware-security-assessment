@@ -66,6 +66,9 @@ Phoenix Contact ILC 171 ETH 2TX datasheet (Item No. 2700975) · IL SYS INST UM E
 installation manual (Rev. 10) · CERT VDE-2023-055 & VDE-2023-057 · NVD/CVE.org ·
 MITRE CWE-732 and CWE-494
 
+## Further Reading
+Full narrative write-up: [READ ON MEDIUM](https://medium.com/@mohamedkhattab1892/a-plc-with-no-patch-assessing-the-hardware-security-of-a-phoenix-contact-inline-controller-119b061b41d8?sharedUserId=mohamedkhattab1892)
+
 ---
 *This assessment was conducted as part of the CyManII OT Cybersecurity Bootcamp,
 based entirely on vendor documentation and public advisories. No exploitation was
